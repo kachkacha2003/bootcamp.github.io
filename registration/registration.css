@@ -1,0 +1,58 @@
+.registration{
+    width: 300px;
+    min-height: 200px;
+    border: 1px solid red;
+    margin: 0 auto;
+    
+    padding: 15px;
+    box-sizing: border-box;
+}
+.registration .heh{
+    display: block;
+    margin-bottom: 5px;
+}
+
+.b{
+    margin-bottom: 15px;
+    
+}
+.registration .text-input{
+    height:30px ;
+    width: 100% ;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-color: red;
+    border-radius: 10px;
+   
+    
+  
+    box-sizing: border-box;
+    
+}
+.btn{
+    width: 100%;
+    height: 30px;
+    background-color: rgb(136, 136, 209);
+    color: brown;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: rgb(27, 247, 3);
+}
+#label1{
+    display: flex;
+    justify-content: center;
+}
+img{
+   
+    cursor: pointer;
+    margin-top: 5px;
+    margin-left: 10px;
+   
+    
+}
+.flexBox{
+    display: flex;
+    
+
+}
